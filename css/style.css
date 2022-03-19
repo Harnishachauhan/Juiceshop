@@ -1,0 +1,250 @@
+                    .landing-page {
+                        position: relative;
+                        width: 100%;
+                    }
+                    
+                    .header {
+                        width: 103%;
+                        position: fixed;
+                        background-color: #e13a23;
+                        /* top: 100%; */
+                        align-items: center;
+                        z-index: 10;
+                        right: 0;
+                        left: 0;
+                    }
+                    
+                    .header-logo {
+                        margin: 0 auto;
+                        text-align: center;
+                    }
+                    
+                    .multiple-items-css {
+                        justify-content: center;
+                        align-items: center;
+                        align-content: center;
+                        margin: 0 auto;
+                    }
+                    
+                    .headerul {
+                        align-content: center;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        list-style-type: none;
+                        color: #fff;
+                    }
+                    
+                    .multiple-items {
+                        width: 100%;
+                        position: absolute;
+                        top: 160px;
+                    }
+                    
+                    .fruite-img {
+                        width: 100%;
+                    }
+                    
+                    .multiple-items-desc {
+                        width: 70%;
+                        color: #fff;
+                        font-family: 'Raleway', sans-serif;
+                        margin-left: 300px;
+                        margin-right: 150px;
+                    }
+                    
+                    .btn-desc {
+                        background-color: #fff;
+                        color: #e84f1e;
+                        border: none;
+                        padding: 14px;
+                        font-size: 20px;
+                        font-weight: 600;
+                        font-family: 'Raleway', sans-serif;
+                    }
+                    
+                    .aboutus {
+                        margin: 50px auto;
+                        position: relative;
+                    }
+                    
+                    .about-desc {
+                        position: absolute;
+                        top: 200px;
+                        width: 35%;
+                        right: 169px;
+                    }
+                    
+                    .aboutus .about-desc h1 span {
+                        color: #e84f1e;
+                    }
+                    
+                    .aboutus .about-desc p {
+                        font-size: 20px;
+                        font-weight: 600;
+                        font-family: 'Raleway', sans-serif;
+                    }
+                    
+                    .about-btn-desc {
+                        background-color: #e84f1e;
+                        color: #fff;
+                        border: none;
+                        padding: 14px;
+                        font-size: 20px;
+                        font-weight: 600;
+                        font-family: 'Raleway', sans-serif;
+                    }
+                    
+                    .form-control {
+                        border: none;
+                    }
+                    
+                    .contactus {
+                        background-color: #ffffff;
+                        margin-bottom: 50px;
+                    }
+                    
+                    .contactus .contact-border {
+                        border: 2px solid #f4f4f2;
+                        background-color: #f4f4f2;
+                        width: 70%;
+                        border-radius: 30px;
+                        /* margin-left: 70px; */
+                    }
+                    
+                    .form-btn {
+                        display: flex;
+                        justify-content: center;
+                    }
+                    
+                    .contactus .contact-button {
+                        color: #fff;
+                        background-color: #e84f1e;
+                        padding: 8px 20PX;
+                        margin-bottom: 12px;
+                        font-size: 12px;
+                        font-weight: 600;
+                        border: none;
+                        font-family: 'Raleway', sans-serif;
+                    }
+                    
+                    .contactus-center {
+                        margin: 0 auto;
+                        text-align: center;
+                        align-items: center;
+                    }
+                    /* .contactform {
+    /* margin-left: 10px; */
+                    
+                    .contactform img {
+                        width: 100%;
+                    }
+                    
+                    .juice-about {
+                        background-image: linear-gradient(#e13a23, #ff6600, #ff9933);
+                    }
+                    
+                    .juice-desc {
+                        text-align: left;
+                        margin: 40px auto;
+                    }
+                    
+                    .juice-desc h2 {
+                        color: #fff;
+                    }
+                    
+                    .juice-desc p {
+                        color: #fff;
+                        margin: 20px auto;
+                    }
+                    
+                    .juice-btn {
+                        background-color: #fff;
+                        color: #000;
+                        border: none;
+                        font-size: 16px;
+                        font-weight: 500;
+                        padding: 5px 20px;
+                    }
+                    
+                    .juice-about-center {
+                        margin: 0 auto;
+                        text-align: center;
+                        align-items: center;
+                    }
+                    
+                    .juice-img img {
+                        width: 100%;
+                        margin: 80px auto;
+                    }
+                    
+                    .testimonial {
+                        background-image: url('../image/testimonal-img.jpg');
+                    }
+                    
+                    .testimonial img {
+                        width: 100%;
+                    }
+                    
+                    .test-header-desc {
+                        padding-top: 30px;
+                        margin: 0 auto;
+                        text-align: center;
+                    }
+                    
+                    .testbox {
+                        padding-top: 50px;
+                        margin-left: auto;
+                        margin-right: auto;
+                        width: 70%;
+                        background-color: #aaa3a317;
+                        position: relative;
+                        top: -37px;
+                    }
+                    
+                    .test-desc {
+                        padding: 10px 25px;
+                        text-align: center;
+                    }
+                    
+                    .test-logo {
+                        position: relative;
+                        top: 22px;
+                        z-index: 10;
+                    }
+                    
+                    .test-logo img {
+                        width: 10%;
+                        height: 10%;
+                        margin: 0 auto;
+                        text-align: center;
+                        border-radius: 89px;
+                    }
+                    
+                    .footer {
+                        background-color: #333333;
+                        margin: 0 auto;
+                        text-align: center;
+                    }
+                    
+                    .footer h4 {
+                        padding-top: 10px;
+                        color: #fff;
+                    }
+                    
+                    .footer h4 span {
+                        color: #ff6600;
+                    }
+                    
+                    .footer p {
+                        color: #fff;
+                        margin: 0 auto;
+                        width: 30%;
+                        padding-top: 10px;
+                        padding-bottom: 30px;
+                    }
+                    
+                    .footer h6 {
+                        color: #fff;
+                        margin: 0 auto;
+                        padding-bottom: 20px;
+                    }
